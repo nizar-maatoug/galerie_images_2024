@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "806825881636",
+    "project_id": "galerie-images-2024",
+    "storage_bucket": "galerie-images-2024.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:806825881636:android:6f81a0ebb3894f321f28b1",
+        "android_client_info": {
+          "package_name": "com.example.galerie_image_2024"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyUvWUMszXSuerpif7h0m4iqZTErw_f1g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
